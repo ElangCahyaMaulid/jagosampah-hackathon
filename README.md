@@ -10,3 +10,7 @@ Gamified plastic collection platform to empower Jakarta RT/RW
    composer install
    php artisan migrate --seed
    php artisan serve --port=8000
+2. Frontend:
+   cd frontend
+   npm ci
+   npm run dev
