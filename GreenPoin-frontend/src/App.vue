@@ -4,8 +4,8 @@
     <!-- Header -->
     <header class="bg-green-600 text-white p-4 shadow-md flex items-center justify-between">
       <div class="flex items-center gap-3">
-        <img src="/vite.svg" class="h-10" alt="Logo JagoSampah" />
-        <h1 class="text-xl font-bold tracking-wide">JagoSampah</h1>
+        <img src="./pages/GreenPoin.png" class="h-10" alt="Logo GreenPoin" />
+        <h1 class="text-xl font-bold tracking-wide">GreenPoin</h1>
       </div>
       <nav class="space-x-4">
         <router-link to="/" class="hover:underline">Beranda</router-link>
@@ -23,7 +23,7 @@
 
     <!-- Footer -->
     <footer class="bg-gray-200 text-center py-4 text-sm text-gray-600">
-      &copy; 2025 JagoSampah • Komunitas RT/RW Cerdas & Peduli Lingkungan
+      &copy; 2025 GreenPoin • Smart & Environmentally Caring RT/RW Community
     </footer>
   </div>
 </template>
