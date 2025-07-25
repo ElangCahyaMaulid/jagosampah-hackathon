@@ -1,12 +1,13 @@
+<!-- resources/js/Pages/Leaderboard.vue -->
 <template>
   <div class="max-w-2xl mx-auto mt-10 p-6 bg-white shadow rounded-lg">
-    <h2 class="text-2xl font-bold text-green-800 mb-4">Papan Skor RT</h2>
+    <h2 class="text-2xl font-bold text-green-800 mb-4">Community Leaderboard</h2>
     <table class="w-full text-left border-collapse">
       <thead>
         <tr>
           <th class="border-b p-2">#</th>
-          <th class="border-b p-2">RT</th>
-          <th class="border-b p-2">Total Kg</th>
+          <th class="border-b p-2">Community (RT)</th>
+          <th class="border-b p-2">Total Collected (kg)</th>
         </tr>
       </thead>
       <tbody>
